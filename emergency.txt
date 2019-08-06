@@ -1,0 +1,5 @@
+Fire 119
+Police 110
+Accident 122
+Ambulance 120
+0
