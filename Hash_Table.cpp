@@ -66,6 +66,7 @@ int main(int argc , char * const argv[])
     {
         string name;
         string number;
+        cout<<"% ";
         cin>>name;
         if(name[0]=='0') break;
         int hash = calc_hash(name);
