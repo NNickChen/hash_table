@@ -19,11 +19,16 @@ int calc_hash(string s)
     return hash;
 }
 
-int main()
+int main(int argc , char * const argv[])
 {
     string filename;
-    cout<<"Enter the filename:\n";
-    cin>>filename;
+    if(argc<=1)
+    {
+        cout<<"Enter the filename:\n";
+        cin>>filename;
+    } else {
+        filename = argv[1];
+    }
     ifstream fin(filename);
     if(!fin)
     {
