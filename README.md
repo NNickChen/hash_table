@@ -16,4 +16,8 @@ $ ./Hash_Table filename
 or like
 $ ./Hash_Table
 Enter the filename: filename
-##
+## Search
+If the file exists, you'll see a '%' promot,
+type names and you'll see his number.
+Download current version on <http://broke.ai/downloads/Hash_Table>
+
