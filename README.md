@@ -22,7 +22,7 @@ Enter the filename: filename
 If the file exists, you'll see a `%` promot,<br>
 type names and you'll see his number.<br>
 Type `0` to quit.<br>
-Download current version on <http://broke.ai/downloads/Hash\_Table>
+Download current version on <http://broke.ai/downloads/Hash_Table>
 ## About
 My Website:<broke.ai><br>
 My Blog:<blog.broke.ai><br>
