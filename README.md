@@ -10,7 +10,7 @@ Accident 122
 Ambulance 120
 0
 ```
-It must end with 0
+It must end with `0`
 ### type filename
 ```
 $ ./Hash\_Table filename
@@ -25,5 +25,5 @@ Type `0` to quit.<br>
 Download current version on <http://broke.ai/downloads/Hash\_Table>
 ## About
 My Website:<broke.ai><br>
-My blog:<blog.broke.ai><br>
-My forum:<forum.broke.ai>
+My Blog:<blog.broke.ai><br>
+My Forum:<forum.broke.ai>
