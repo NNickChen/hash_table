@@ -13,8 +13,10 @@ int calc_hash(string s)
     {
         if(s[i]>='a'&&s[i]<='z')
          hash += sosu_table[s[i] - 'a'];
-        else
+        else if(s[i]>='A'&&s[i]<='z')
          hash += sosu_table[s[i] - 'A'];
+	else hash+=sosu_table[(s[i]&0xff)%26];
+
     }
     return hash;
 }
