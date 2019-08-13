@@ -1,6 +1,7 @@
 # hash\_tab
 This is the fastest contact searcher in the world!<br>
 You can search a contact contains more than 10000 indexes!
+And is's an **open-source** software!
 ## How to use it
 ### Make a list (txt file) like:
 ```
