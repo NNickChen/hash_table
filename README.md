@@ -25,6 +25,6 @@ type names and you'll see his number.<br>
 Type `0` to quit.<br>
 Download current version on <http://broke.ai/downloads/Hash_Table>
 ## About
-My Website:<broke.ai><br>
-My Blog:<blog.broke.ai><br>
-My Forum:<forum.broke.ai>
+My Website:<http://broke.ai><br>
+My Blog:<http://blog.broke.ai><br>
+My Forum:<http://forum.broke.ai>
