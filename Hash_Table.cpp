@@ -21,30 +21,16 @@ int calc_hash(string s)
     return hash;
 }
 
-int main(int argc , char * const argv[])
+int main()
 {
-    string filename;
-    if(argc<=1)
-    {
-        cout<<"Enter the filename:\n";
-        cin>>filename;
-    } else {
-        filename = argv[1];
-    }
-    ifstream fin(filename);
-    if(!fin)
-    {
-        cout<<"Cannot open the file.\n";
-        return 0;
-    }
     // int n;
-    // fin>>n;
+    // cin>>n;
     // for(int i=0;i<n;i++)
     while(1)
     {
         string name;
         string number;
-        fin>>name>>number;
+        cin>>name>>number;
         if(name[0]=='0') break;
         // cout<<name<<" "<<number<<"\n";
         int hash =calc_hash(name);
@@ -62,7 +48,6 @@ int main(int argc , char * const argv[])
         }
     }
     // cout<<"1\n";
-    fin.close();
     // cin>>n;
     while(1)
     {
