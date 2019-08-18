@@ -1,4 +1,4 @@
-# hash\_tab
+# hash\_table
 This is the fastest contact searcher in the world!<br>
 You can search a contact contains more than 10000 indexes!<br>
 And is's an **open-source** software!
